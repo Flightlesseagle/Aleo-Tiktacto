@@ -1,2 +1,2 @@
 # Aleo-Tiktacto
- my leo Testnet3
+ my Aleo Testnet3
